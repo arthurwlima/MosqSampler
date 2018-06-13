@@ -13,5 +13,5 @@ The image below shows the effects of different traps attractiveness ('Atrativida
 <img src="Cen3_Arma0_nA144_nM2500_nP5000_S3.png" alt="hi" class="inline"/>
 
 
-Though the code is reasonably commented, more detailed description and R scripts for analyzing simulation outputs will be posted as publication moves on. Meanwhile, anyone interested in the model is encouraged to contact me for more details.
+A more detailed description and R scripts for analyzing simulation outputs will be posted as publication moves on. Meanwhile, anyone interested in the model is encouraged to contact me for more details.
 
