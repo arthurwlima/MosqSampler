@@ -7,6 +7,6 @@ Histograms of the distance of the mosquito position from the center of the area,
 
 300 mosquitoes moving in an adaptative random-walk, with 1000 natural reservoirs in the center of the area.
 
-<img src="DispersaoD0_P1000.png" alt="hi" class="inline"/>
+<img src="DispersaoD1_P1000.png" alt="hi" class="inline"/>
 
 
